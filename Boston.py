@@ -20,3 +20,5 @@ linr.fit(x_train, y_train)
 y_pred = linr.predict(x_test)
 print(mean_squared_error(y_test, y_pred))
 
+
+# Mean Squared Error:  0.031129333980953557
